@@ -4,3 +4,10 @@
     display: block;
   }
 }
+#navbar{
+  position: fixed;
+  top: 0;
+}
+#welcome-section{
+  height: 100vh;
+}
